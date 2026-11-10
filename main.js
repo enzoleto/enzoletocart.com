@@ -106,7 +106,7 @@
     "sk.lang": "Langues", "l.fr": "Français", "l.native": "natif", "l.es": "Espagnol", "l.en": "Anglais",
     "path.title": "Parcours", "now": "aujourd'hui",
     "r1.t": "Apprenti ingénieur logiciel", "r1.o": "Établissement Géographique Interarmées · Armées françaises · stage (mai–août 2025), puis alternance",
-    "r4.t": "Assistant informatique (stage, 2 mois)",
+    "r4.t": "Assistant informatique (stage, 2 mois)", "r4.o": "Lumileds · Suresnes · maintenance informatique, reporting, organisation d&#39;un showroom",
     "r5.t": "Maître-nageur", "r5.o": "Piscine d'Ozoir-la-Ferrière · en parallèle des études",
     "r2.t": "Diplôme d'ingénieur en informatique", "r2.o": "CESI École d'Ingénieurs · alternance",
     "k.work": "Expérience", "k.edu": "Formation",
