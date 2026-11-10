@@ -1,5 +1,6 @@
-# Portfolio Enzo Létocart
+# Portfolio Enzo Létocart · https://enzoletocart.com
 
-- `public/` : le site (c'est ce dossier qui est mis en ligne)
+- `public/` : le site (c'est ce dossier qui est en ligne)
 - `public/cv/` : les CV (PDF + leur source HTML)
-- `dev-server.js` : petit serveur local pour voir le site (`node dev-server.js public`, puis http://localhost:5173)
+- `publier.cmd` : double-clic pour mettre le site en ligne après une modification
+- `dev-server.js` : voir le site en local (`node dev-server.js public`, puis http://localhost:5173)
