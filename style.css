@@ -136,6 +136,7 @@ em { font-family: var(--serif); font-style: italic; font-weight: 400; }
 
 /* cards */
 .cards { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-top: 16px; }
+.cards-3 { grid-template-columns: repeat(3, 1fr); }
 .card {
   position: relative; padding: clamp(24px, 3vw, 36px); border: 1px solid var(--line); border-radius: 20px; background: var(--bg-2);
   overflow: hidden; transition: border-color .3s, transform .4s var(--ease);
